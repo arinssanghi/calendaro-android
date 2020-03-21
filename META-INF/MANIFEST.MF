@@ -1,0 +1,93 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/drawable-hdpi-v4/stylebtn2.xml
+SHA1-Digest: q5akOQ7rftfovvyPXLHK52cp9zY=
+
+Name: res/drawable-hdpi-v4/tag.png
+SHA1-Digest: 2ER47CU/Cbhh0cyjB9od7Re3irg=
+
+Name: res/drawable-hdpi-v4/tag3.png
+SHA1-Digest: VetLHr6TxVCg10+NuNemcWa3rik=
+
+Name: res/drawable-hdpi-v4/stylebtn3.xml
+SHA1-Digest: HQlUO3yuqAj4PKz38aX6Dh7Ck0I=
+
+Name: res/layout-xlarge-v4/activity_about.xml
+SHA1-Digest: zUf9u9TPjB/Ok94S5XuChv5o4bQ=
+
+Name: assets/roboto.ttf
+SHA1-Digest: fQQh3k4TmPuQhzeKnMySl728hLk=
+
+Name: res/layout-xlarge-v4/activity_main.xml
+SHA1-Digest: uHn8xg13FNrmN9Uri6WXWI41ZzE=
+
+Name: res/layout-large-v4/activity_main.xml
+SHA1-Digest: Z85qW3jX67n4LyESbiH5HbktKHA=
+
+Name: res/drawable-xhdpi-v4/backspace.png
+SHA1-Digest: kQ2Dak9xs33HoZZ+dEkPBBQm80A=
+
+Name: res/menu/about.xml
+SHA1-Digest: 02knIPp/ev4Zs53KesafntkQdYU=
+
+Name: res/drawable-xxhdpi-v4/backspace.png
+SHA1-Digest: KkMfdgAZOvjZS7tuEw70Yqh+VX8=
+
+Name: resources.arsc
+SHA1-Digest: DD6JGTM+Suxude9VBNa2+pH+bRQ=
+
+Name: res/layout-xlarge-land-v4/activity_main.xml
+SHA1-Digest: GG8HPgm0gOned541rBz7vwms7No=
+
+Name: res/drawable-hdpi-v4/icon.png
+SHA1-Digest: ulHKYE2JsOug39X9E1qgo1AEF6Q=
+
+Name: classes.dex
+SHA1-Digest: mnZvynQEmKiHcuO/TlDvbuUnKt8=
+
+Name: res/layout-normal-land-v4/activity_about.xml
+SHA1-Digest: MoIX6z7OACCliVOnfPxSmxacJKM=
+
+Name: res/menu-v11/main.xml
+SHA1-Digest: ZqnWMx2EuYZA+Z6WcW21K213ibk=
+
+Name: res/layout-small-v4/activity_main.xml
+SHA1-Digest: OQWC/2USsH+HPr/AbsJaJr3acpw=
+
+Name: res/layout-large-land-v4/activity_main.xml
+SHA1-Digest: thwAEmZcf+JiH7AeSXElZdHDdik=
+
+Name: res/layout-normal-v4/activity_about.xml
+SHA1-Digest: JPgjsPiWAkf1CWESH3zAzRvvOh8=
+
+Name: res/drawable-hdpi-v4/tag2.png
+SHA1-Digest: YT9KHO4U/dTIAmrZhbild+5ZDoo=
+
+Name: res/drawable-hdpi-v4/tag4.png
+SHA1-Digest: nBs670Mdn84HT+I7h8AWCB7YyJw=
+
+Name: res/layout-large-v4/activity_about.xml
+SHA1-Digest: k+pdcee1oW6q2QWn5hX59xHgmu0=
+
+Name: res/drawable-mdpi-v4/backspace.png
+SHA1-Digest: 6n9QdC0Qb2+Fk37KY1sENsAXlbI=
+
+Name: res/layout-normal-land-v4/activity_main.xml
+SHA1-Digest: +DOICyr+Hkk87n7SWgQc7X6oEY4=
+
+Name: res/drawable-hdpi-v4/stylebtn.xml
+SHA1-Digest: 8kU+WH7RrfdE8USnvZ4JW515O1A=
+
+Name: res/layout-small-land-v4/activity_main.xml
+SHA1-Digest: 30Nc9VKut/WJnXLD/Bq1gIxqlbA=
+
+Name: AndroidManifest.xml
+SHA1-Digest: d96hkrUJedEzCh/n5gBD3aWOE5o=
+
+Name: res/menu/main.xml
+SHA1-Digest: UHNz36Hi7ya1FntkDiykjYMH8GY=
+
+Name: res/layout-normal-v4/activity_main.xml
+SHA1-Digest: YDjKbRaZxKiRLTfQB0OVVzxMC00=
+
